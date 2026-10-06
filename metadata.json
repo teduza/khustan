@@ -1,0 +1,6 @@
+{
+  "name": "KHUSTAN",
+  "description": "KHUSTAN — 3D game set in Kapan, Armenia. Created by Aleksandr Sarkisian in collaboration with M.A.R.S. COMPANION LLC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
